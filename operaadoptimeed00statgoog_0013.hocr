@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaadoptimeed00statgoog/operaadoptimeed00statgoog_0013.png"; bbox 0 0 2079 3613; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 1239 1673 1670">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 1239 1673 1715">
+     <span class='ocr_line' id='line_1_1' title="bbox 435 1239 1551 1386; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 435 1300 546 1386; x_wconf 85' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 592 1239 1082 1385; x_wconf 79' lang='lat' dir='ltr'>.PAP1N11</span> <span class='ocrx_word' id='word_1_3' title='bbox 1139 1286 1551 1386; x_wconf 78' lang='lat' dir='ltr'>STATII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 92 1457 1673 1670; baseline 0.006 -8"><span class='ocrx_word' id='word_1_4' title='bbox 92 1578 97 1585; x_wconf 94' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 310 1457 1673 1670; x_wconf 77' lang='lat' dir='ltr'>THEBAIDOS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 690 1766 1294 1916">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 690 1766 1294 1916">
+     <span class='ocr_line' id='line_1_3' title="bbox 690 1766 1294 1916; baseline 0.003 -13"><span class='ocrx_word' id='word_1_6' title='bbox 690 1802 1021 1916; x_wconf 69' lang='lat' dir='ltr'>LJBRI&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1067 1766 1294 1905; x_wconf 62' lang='lat' dir='ltr'><strong>XIL&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

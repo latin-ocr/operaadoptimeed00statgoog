@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaadoptimeed00statgoog/operaadoptimeed00statgoog_0025.png"; bbox 0 0 2079 3613; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 80 1223 1705 1657">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 80 1223 1705 1703">
+     <span class='ocr_line' id='line_1_1' title="bbox 430 1223 1583 1374; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 430 1288 555 1373; x_wconf 87' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 612 1223 1116 1371; x_wconf 77' lang='lat' dir='ltr'><strong>PAPINII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1171 1274 1583 1374; x_wconf 75' lang='lat' dir='ltr'>STATn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 80 1526 1705 1657; baseline 0.004 -6"><span class='ocrx_word' id='word_1_4' title='bbox 80 1568 85 1574; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 298 1526 403 1652; x_wconf 83' lang='grc' dir='ltr'><strong>Τ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 484 1535 632 1653; x_wconf 85' lang='grc' dir='ltr'>Η</span> <span class='ocrx_word' id='word_1_7' title='bbox 704 1532 1554 1657; x_wconf 82' lang='lat' dir='ltr'><strong>EBAIDO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1625 1534 1705 1657; x_wconf 88' lang='lat' dir='ltr'>s</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 360 1752 1519 1909">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 360 1752 1519 1909">
+     <span class='ocr_line' id='line_1_3' title="bbox 360 1752 1519 1909; baseline 0.003 -21"><span class='ocrx_word' id='word_1_9' title='bbox 360 1805 375 1846; x_wconf 69' lang='lat'>*</span> <span class='ocrx_word' id='word_1_10' title='bbox 462 1851 541 1900; x_wconf 65' lang='lat'><strong>.=</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 720 1752 1326 1904; x_wconf 56' lang='lat' dir='ltr'>LJBRI&#39;XHJ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1516 1907 1519 1909; x_wconf 7' lang='lat' dir='ltr'>v</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

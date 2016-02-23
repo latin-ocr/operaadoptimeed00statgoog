@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaadoptimeed00statgoog/operaadoptimeed00statgoog_0017.png"; bbox 0 0 2079 3613; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1283 1675 1661">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 1232 1675 1661">
+     <span class='ocr_line' id='line_1_1' title="bbox 437 1283 1553 1378; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 437 1292 550 1377; x_wconf 87' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 596 1283 1084 1376; x_wconf 83' lang='lat' dir='ltr'><strong>PAPINII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1141 1285 1553 1378; x_wconf 79' lang='lat' dir='ltr'>STATn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 304 1449 1675 1661; baseline 0.005 -6"><span class='ocrx_word' id='word_1_4' title='bbox 304 1540 409 1655; x_wconf 88' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_5' title='bbox 482 1539 610 1657; x_wconf 91' lang='lat' dir='ltr'><strong>H</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 677 1539 772 1654; x_wconf 91' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_7' title='bbox 832 1537 1091 1656; x_wconf 89' lang='lat' dir='ltr'><strong>BA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1147 1541 1206 1655; x_wconf 93' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_9' title='bbox 1254 1449 1525 1660; x_wconf 73' lang='lat' dir='ltr'><strong>DO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1595 1538 1675 1661; x_wconf 91' lang='lat' dir='ltr'>S</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 693 1794 1280 1908">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 693 1794 1280 1908">
+     <span class='ocr_line' id='line_1_3' title="bbox 693 1794 1280 1908; baseline 0 -12"><span class='ocrx_word' id='word_1_11' title='bbox 693 1794 1025 1908; x_wconf 65' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_12' title='bbox 1080 1820 1280 1896; x_wconf 80' lang='grc' dir='ltr'><strong>ΧΠ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
